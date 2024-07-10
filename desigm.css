@@ -1,0 +1,11 @@
+.carousel-item{
+    /* border: 5PX SOLID yellow; */
+     height: 80vh;
+    /* width: 60vw; */
+    background-size: cover;
+    background-position:center;
+} 
+.carousel-item img{
+    /* border: 4px solid pink; */
+    width: 50%;
+}
